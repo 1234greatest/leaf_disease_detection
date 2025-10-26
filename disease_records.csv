@@ -1,0 +1,211 @@
+timestamp,image,disease,severity,action
+2025-10-22 22:26:00.219742,IMG_0219_JPG.rf.c8d288f364390a28656a50ed7415713a.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:26:01.086474,IMG_0233_JPG.rf.b27c3e2dd843cab5e0f652fd1ce5659a.jpg,Leaf Mold,Moderate Infection,Improve air circulation; reduce humidity; apply fungicide if needed.
+2025-10-22 22:26:01.685463,IMG_0249_JPG.rf.412df0b52b549fc121a346eb8a957ab0.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:02.341040,IMG_0277_JPG.rf.84073f240decbc79e30716373f3dd507.jpg,Leaf Mold,Mild Infection,Improve air circulation; reduce humidity; apply fungicide if needed.
+2025-10-22 22:26:02.927692,IMG_0281_JPG.rf.a29c913abceeed1ea6092ab0f2c92b0d.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:03.488434,IMG_0288_JPG.rf.ca824ec09b29571c39dc6b6ee6b0f6a7.jpg,black spot,Mild Infection,Apply sulfur spray and prevent prolonged leaf wetness.
+2025-10-22 22:26:04.205819,IMG_0299_JPG.rf.d19f0cf7d3997c407f195ae8c59cd046.jpg,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:04.757340,IMG_0300_JPG.rf.9294551b97cedde7e681b52876aed944.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:26:05.306674,IMG_0306_JPG.rf.8cfc41c387ad5f06390912b8adf4f001.jpg,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:05.909007,IMG_0337_JPG.rf.c5ee563d8584973ee9fd339de59c0c8f.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:26:06.685981,IMG_0345_JPG.rf.6d1707b20ec861a78ba83945801a0898.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:07.498946,IMG_0349_JPG.rf.986b62f1b9daaaea2228dff4cf072182.jpg,Target_Spot,Moderate Infection,Use azoxystrobin or copper fungicide and prune lower leaves.
+2025-10-22 22:26:08.429304,IMG_0359_JPG.rf.e4fb9464647fd62372ad23e4e93acf58.jpg,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:09.163503,IMG_0361_JPG.rf.9df45f9f1d831bf0c30f3d62a2cd8b7a.jpg,Target_Spot,Mild Infection,Use azoxystrobin or copper fungicide and prune lower leaves.
+2025-10-22 22:26:09.883594,IMG_0363_JPG.rf.b70df68ea826d4a56ea04fc61cc14f60.jpg,Target_Spot,Mild Infection,Use azoxystrobin or copper fungicide and prune lower leaves.
+2025-10-22 22:26:10.583589,IMG_0371_JPG.rf.eceaf990bab5276fbb1499eb0321f412.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:11.933167,IMG_0554_JPG.rf.123e05abb041babb491a02b436260cff.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:13.015077,IMG_0577_JPG.rf.8f4955468e2ee47f88e50443943f45df.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:13.730681,IMG_0580_JPG.rf.1366720960579853ffc3981a6deaa5ab.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:14.581823,IMG_0581_JPG.rf.303c1f0a2504708e64a37c20cf3e0d58.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:15.454447,IMG_0649_JPG.rf.f856062c3507b0d0cbe228744645efc3.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:16.231197,IMG_0882_JPG.rf.63b0ec53b347103941c60dd138b64a64.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:17.033192,IMG_1010_JPG.rf.f7e96ee6ab8dac362cf69f15bbac8924.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:26:17.911987,IMG_1023_JPG.rf.6b85b647b5fc7f392b8b304c4c0f3422.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:26:18.571382,IMG_1081_JPG.rf.af69c94dbae34f5bbbd988022910241a.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:26:19.178035,IMG_1115_JPG.rf.94e1a8ddebf84ce422861939cb665251.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:26:19.982283,IMG_1128_JPG.rf.2b6c8bd27f4affcd740259c710285fa4.jpg,black spot,Mild Infection,Apply sulfur spray and prevent prolonged leaf wetness.
+2025-10-22 22:26:20.923900,IMG_1129_JPG.rf.bd6f9e6f7655c1c402890cf0e8e44dde.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:21.694682,IMG_1138_JPG.rf.a6c18727b047339d4f4b2fe42e1fc054.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:22.532871,IMG_1141_JPG.rf.974b08fa79db2a3fe741383ba39e8603.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:26:23.264334,IMG_1150_JPG.rf.b69556095575c09e135bd499d19e23de.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:16.358478,IMG_0219_JPG.rf.c8d288f364390a28656a50ed7415713a.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:17.053133,IMG_0233_JPG.rf.b27c3e2dd843cab5e0f652fd1ce5659a.jpg,Leaf Mold,Moderate Infection,Improve air circulation; reduce humidity; apply fungicide if needed.
+2025-10-22 22:54:17.817558,IMG_0249_JPG.rf.412df0b52b549fc121a346eb8a957ab0.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:18.998695,IMG_0277_JPG.rf.84073f240decbc79e30716373f3dd507.jpg,Leaf Mold,Mild Infection,Improve air circulation; reduce humidity; apply fungicide if needed.
+2025-10-22 22:54:19.681153,IMG_0281_JPG.rf.a29c913abceeed1ea6092ab0f2c92b0d.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:20.649854,IMG_0288_JPG.rf.ca824ec09b29571c39dc6b6ee6b0f6a7.jpg,black spot,Mild Infection,Apply sulfur spray and prevent prolonged leaf wetness.
+2025-10-22 22:54:21.571390,IMG_0299_JPG.rf.d19f0cf7d3997c407f195ae8c59cd046.jpg,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:22.313214,IMG_0300_JPG.rf.9294551b97cedde7e681b52876aed944.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:22.938472,IMG_0306_JPG.rf.8cfc41c387ad5f06390912b8adf4f001.jpg,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:23.558350,IMG_0337_JPG.rf.c5ee563d8584973ee9fd339de59c0c8f.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:24.208634,IMG_0345_JPG.rf.6d1707b20ec861a78ba83945801a0898.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:24.775586,IMG_0349_JPG.rf.986b62f1b9daaaea2228dff4cf072182.jpg,Target_Spot,Moderate Infection,Use azoxystrobin or copper fungicide and prune lower leaves.
+2025-10-22 22:54:25.448207,IMG_0359_JPG.rf.e4fb9464647fd62372ad23e4e93acf58.jpg,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:26.201107,IMG_0361_JPG.rf.9df45f9f1d831bf0c30f3d62a2cd8b7a.jpg,Target_Spot,Mild Infection,Use azoxystrobin or copper fungicide and prune lower leaves.
+2025-10-22 22:54:26.874372,IMG_0363_JPG.rf.b70df68ea826d4a56ea04fc61cc14f60.jpg,Target_Spot,Mild Infection,Use azoxystrobin or copper fungicide and prune lower leaves.
+2025-10-22 22:54:27.488243,IMG_0371_JPG.rf.eceaf990bab5276fbb1499eb0321f412.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:28.247071,IMG_0554_JPG.rf.123e05abb041babb491a02b436260cff.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:29.091258,IMG_0577_JPG.rf.8f4955468e2ee47f88e50443943f45df.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:29.818756,IMG_0580_JPG.rf.1366720960579853ffc3981a6deaa5ab.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:30.474687,IMG_0581_JPG.rf.303c1f0a2504708e64a37c20cf3e0d58.jpg,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:31.214681,IMG_0649_JPG.rf.f856062c3507b0d0cbe228744645efc3.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:32.013171,IMG_0882_JPG.rf.63b0ec53b347103941c60dd138b64a64.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:32.714784,IMG_1010_JPG.rf.f7e96ee6ab8dac362cf69f15bbac8924.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:33.313984,IMG_1023_JPG.rf.6b85b647b5fc7f392b8b304c4c0f3422.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:34.000733,IMG_1081_JPG.rf.af69c94dbae34f5bbbd988022910241a.jpg,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-22 22:54:34.690656,IMG_1115_JPG.rf.94e1a8ddebf84ce422861939cb665251.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-22 22:54:35.328265,IMG_1128_JPG.rf.2b6c8bd27f4affcd740259c710285fa4.jpg,black spot,Mild Infection,Apply sulfur spray and prevent prolonged leaf wetness.
+2025-10-22 22:54:35.961782,IMG_1129_JPG.rf.bd6f9e6f7655c1c402890cf0e8e44dde.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:36.781458,IMG_1138_JPG.rf.a6c18727b047339d4f4b2fe42e1fc054.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:37.308591,IMG_1141_JPG.rf.974b08fa79db2a3fe741383ba39e8603.jpg,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-22 22:54:37.868658,IMG_1150_JPG.rf.b69556095575c09e135bd499d19e23de.jpg,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:21:34.832756,Healthy / Unknown,None,No action needed
+2025-10-23 00:22:11.574778,black spot,Severe Infection,Apply sulfur spray and prevent prolonged leaf wetness.
+2025-10-23 00:22:43.535697,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:23:10.980218,Healthy / Unknown,None,No action needed
+2025-10-23 00:23:31.495462,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:24:01.993648,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:24:12.365202,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:24:20.827790,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:24:36.157378,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:24:40.393569,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:25:01.065007,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:25:20.448488,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:25:41.236022,Healthy / Unknown,None,No action needed
+2025-10-23 00:26:11.255132,Healthy / Unknown,None,No action needed
+2025-10-23 00:26:44.668353,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:27:09.396753,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:27:27.748111,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:28:33.070416,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:28:54.148448,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:29:27.353201,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 00:30:14.052569,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:31:13.042803,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:31:37.606184,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 00:41:51.627404,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:42:30.840343,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:47:46.758444,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:48:01.193917,Healthy / Unknown,None,No action needed
+2025-10-23 00:50:39.188687,Healthy / Unknown,None,No action needed
+2025-10-23 00:50:51.638404,Healthy / Unknown,None,No action needed
+2025-10-23 00:55:52.859664,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 00:56:19.474111,Healthy / Unknown,None,No action needed
+2025-10-23 00:58:09.560822,Healthy / Unknown,None,No action needed
+2025-10-23 00:58:34.869282,Healthy / Unknown,None,No action needed
+2025-10-23 00:59:33.147971,Healthy / Unknown,None,No action needed
+2025-10-23 01:00:11.231420,Healthy / Unknown,None,No action needed
+2025-10-23 01:00:33.099117,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:07:03.808862,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:07:48.469087,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:08:03.349195,Healthy / Unknown,None,No action needed
+2025-10-23 01:08:17.234527,Healthy / Unknown,None,No action needed
+2025-10-23 01:08:31.071331,Healthy / Unknown,None,No action needed
+2025-10-23 01:09:06.135819,Healthy / Unknown,None,No action needed
+2025-10-23 01:09:27.537891,Healthy / Unknown,None,No action needed
+2025-10-23 01:09:34.936623,Healthy / Unknown,None,No action needed
+2025-10-23 01:12:40.301401,Healthy / Unknown,None,No action needed
+2025-10-23 01:13:03.082365,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:13:38.514784,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:15:39.137711,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:15:59.049371,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:20:22.794065,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:20:52.659032,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:21:08.355275,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:22:39.590118,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:24:03.531875,Healthy / Unknown,None,No action needed
+2025-10-23 01:28:07.720117,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:28:26.468477,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:34:11.036959,Healthy / Unknown,None,No action needed
+2025-10-23 01:34:30.836022,Healthy / Unknown,None,No action needed
+2025-10-23 01:39:16.730924,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 01:40:30.026409,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 01:40:41.542372,Healthy / Unknown,None,No action needed
+2025-10-23 01:40:56.285364,Healthy / Unknown,None,No action needed
+2025-10-23 01:41:08.185448,Healthy / Unknown,None,No action needed
+2025-10-23 01:43:01.493630,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:43:21.268552,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:43:33.537828,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 01:45:35.268889,Healthy / Unknown,None,No action needed
+2025-10-23 01:45:51.494307,Healthy / Unknown,None,No action needed
+2025-10-23 01:46:18.266911,Healthy / Unknown,None,No action needed
+2025-10-23 01:46:44.843190,Healthy / Unknown,None,No action needed
+2025-10-23 01:46:57.806936,Healthy / Unknown,None,No action needed
+2025-10-23 01:49:13.924737,Healthy / Unknown,None,No action needed
+2025-10-23 01:52:36.677121,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:53:55.611250,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 01:54:53.053214,Healthy / Unknown,None,No action needed
+2025-10-23 01:55:11.533030,Healthy / Unknown,None,No action needed
+2025-10-23 01:55:51.483220,Healthy / Unknown,None,No action needed
+2025-10-23 01:59:08.698259,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 01:59:23.249358,Healthy / Unknown,None,No action needed
+2025-10-23 01:59:44.832807,Healthy / Unknown,None,No action needed
+2025-10-23 02:00:04.061975,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:00:26.802081,Healthy / Unknown,None,No action needed
+2025-10-23 02:00:43.836969,Healthy / Unknown,None,No action needed
+2025-10-23 02:01:08.746496,Healthy / Unknown,None,No action needed
+2025-10-23 02:01:33.875981,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:01:39.891724,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:01:55.432045,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 02:02:15.137819,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:02:27.030954,Healthy / Unknown,None,No action needed
+2025-10-23 02:02:43.030192,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:02:57.658099,Healthy / Unknown,None,No action needed
+2025-10-23 02:03:26.160616,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:03:59.742500,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:04:22.128388,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:04:46.090421,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:19:45.060659,Leaf Mold,Moderate Infection,Improve air circulation; reduce humidity; apply fungicide if needed.
+2025-10-23 02:20:09.320118,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:20:27.650821,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:21:16.801294,Healthy / Unknown,None,No action needed
+2025-10-23 02:21:36.045847,Healthy / Unknown,None,No action needed
+2025-10-23 02:24:35.740500,Healthy / Unknown,None,No action needed
+2025-10-23 02:33:48.984168,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:37:12.599733,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:39:04.034037,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:39:55.737086,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:41:18.613547,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:41:52.778640,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:42:02.857986,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:44:45.579638,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:45:50.630047,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 02:46:14.579446,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:46:42.809477,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:47:06.350089,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 02:47:30.331916,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:49:29.904737,Healthy,Severe Infection,No action required. Maintain balanced nutrients.
+2025-10-23 02:50:20.303123,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:57:58.823842,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:58:20.239717,Late_blight,Mild Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 02:58:40.449787,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 02:59:03.839642,Healthy,No Infection,No action required. Maintain balanced nutrients.
+2025-10-23 03:49:37.762603,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 03:50:02.905939,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 03:50:25.116196,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 03:50:47.995794,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 03:51:09.192064,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 03:51:31.830898,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 03:55:23.191043,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 03:55:47.335032,Healthy / Unknown,None,No action needed
+2025-10-23 15:42:50.062345,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 15:42:57.775208,Late_blight,Severe Infection,Spray mancozeb or chlorothalonil immediately.
+2025-10-23 15:45:39.000857,Healthy / Unknown,None,No action needed
+2025-10-23 15:46:16.701899,Healthy / Unknown,None,No action needed
+2025-10-23 15:48:08.504425,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 15:48:49.140487,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 15:50:08.440138,Early_Blight,Moderate Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 15:53:49.873501,Healthy / Unknown,None,No action needed
+2025-10-23 15:54:14.542639,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 15:55:09.483422,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 15:56:14.321711,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 15:56:33.843289,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 15:56:48.235347,Healthy,None,No action required. Maintain balanced nutrients.
+2025-10-23 15:57:07.368285,Healthy / Unknown,None,No action needed
+2025-10-23 15:58:10.223247,Healthy / Unknown,None,No action needed
+2025-10-23 15:58:27.773398,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 15:58:59.663335,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-23 15:59:30.293186,Healthy / Unknown,None,No action needed
+2025-10-23 15:59:53.583336,Early_Blight,Mild Infection,Use chlorothalonil-based fungicide and remove infected leaves.
+2025-10-27 00:13:06.343007,Healthy / Unknown,None,No action needed
