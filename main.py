@@ -413,7 +413,7 @@ elif menu == "Test Data & Outputs":
 
    
     with st.spinner("Evaluating model on validation set..."):
-        metrics = model.val(data='data/data.yaml', split='val')
+        metrics = model.val(data='data.yaml', split='val')
         box_metrics = metrics.box 
         
         mean_precision = float(box_metrics.p.mean())
@@ -482,4 +482,5 @@ elif menu == "Test Data & Outputs":
         st.info("No evaluation metric images found.")
 
 #streamlit run main.py
+
 
