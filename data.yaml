@@ -1,7 +1,6 @@
-path: .                     # current folder = project root
-train: train/images
-val:   valid/images
-test:  test/images
+train: /mount/src/leaf_disease_detection/train/images
+val:   /mount/src/leaf_disease_detection/valid/images
+test:  /mount/src/leaf_disease_detection/test/images
 
 nc: 7
 names: ['Bacterial Spot', 'Early_Blight', 'Healthy', 'Late_blight',
